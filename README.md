@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Tay McKenzie</h1>
 <h3 align="center">A passionate FiveM player who dabbles in basic lua and bringing emotes to the community.</h3>
 
-![profile pic](https://avatars.githubusercontent.com/u/49776183?v=4)
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taymckenzienz&label=Profile%20views&color=0e75b6&style=flat" alt="taymckenzienz" /> </p>
 
