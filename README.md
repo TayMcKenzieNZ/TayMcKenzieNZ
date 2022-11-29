@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/taymckenzienz" target="blank"><img src="https://img.shields.io/twitter/follow/taymckenzienz?logo=twitter&style=for-the-badge" alt="taymckenzienz" /></a> </p>
 
-- 🔭 I’m currently working on [DpEmotes](https://github.com/TayMcKenzieNZ/dpemotes)
+- 🔭 I’m currently working on [RPEmotes](https://github.com/TayMcKenzieNZ/rpemotes)
 
 - 🌱 I’m currently learning **very basic lua**
 
-- 👯 I’m looking for collaborators to work with me on custom emotes, code, additional features and more for the [DpEmotes project](https://github.com/TayMcKenzieNZ/dpemotes)
+- 👯 I’m looking for collaborators to work with me on custom emotes, code, additional features and more for the [RPEmotes project](https://github.com/TayMcKenzieNZ/rpemotes)
 
 - 🤝 I’m looking for help with [translations](https://github.com/TayMcKenzieNZ/dpemotes)
 
